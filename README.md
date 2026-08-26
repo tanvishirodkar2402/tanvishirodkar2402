@@ -244,9 +244,4 @@ Open To:
   - Graduate Opportunities
   - Collaborative Projects
 
----
-
-<div align="center">"Building intelligent solutions, one project at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer"/></div>
 ```
