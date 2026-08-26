@@ -246,12 +246,6 @@ Open To:
 
 ---
 
-🤝 Connect
-
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-tanvishirodkar2402-181717?style=for-the-badge&logo=github)" (https://github.com/tanvishirodkar2402)
-
-</div>---
-
 <div align="center">"Building intelligent solutions, one project at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer"/></div>
