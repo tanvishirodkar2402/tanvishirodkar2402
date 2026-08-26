@@ -192,7 +192,14 @@ As a final-year Computer Science Engineering student, I work on practical softwa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402#
+
+[![GitHub](https://img.shields.io/badge/GitHub-tanvishirodkar2402-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-shirodkar-a90771333)
+
+[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvishirodkar2402@gmail.com)
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tanvi_Shirodkar26)
 
