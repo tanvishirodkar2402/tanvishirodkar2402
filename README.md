@@ -192,7 +192,6 @@ As a final-year Computer Science Engineering student, I work on practical softwa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402#
 
 [![GitHub](https://img.shields.io/badge/GitHub-tanvishirodkar2402-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402)
 
