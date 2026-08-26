@@ -204,37 +204,12 @@ As a final-year Computer Science Engineering student, I work on practical softwa
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanvishirodkar2402&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvishirodkar2402&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvishirodkar2402&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanvishirodkar2402&theme=discord&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvishirodkar2402&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
