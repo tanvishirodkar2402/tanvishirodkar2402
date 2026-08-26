@@ -194,11 +194,7 @@ As a final-year Computer Science Engineering student, I work on practical softwa
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402)
 
-## 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Tanvi_Shirodkar26-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Tanvi_Shirodkar26/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-
+ [LeetCode](https://leetcode.com/u/Tanvi_Shirodkar26/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](#)
 
 </div>
