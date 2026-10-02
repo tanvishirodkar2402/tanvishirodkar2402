@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tanvi Shirodkar
 
-### Final-Year Computer Science Engineering Student 
+### Final-Year Computer Science Engineering Student
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=Tanvi%20Shirodkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -74,9 +74,9 @@ My current work focuses on **AI-powered applications, machine learning, chatbots
 | Machine Learning | Intermediate | Classification and prediction |
 | Artificial Intelligence | Intermediate | AI-powered application development |
 | Natural Language Processing | Intermediate | AI chatbot development |
-| Data Processing | Intermediate | Data preparation and feature processing |
-| Random Forest | Intermediate | Classification and prediction |
-| Generative AI | Intermediate | AI-powered assistance and interaction |
+| Data Processing | Beginner | Data preparation and feature processing |
+| Random Forest | Beginner | Classification and prediction |
+| Generative AI | Beginner | AI-powered assistance and interaction |
 
 ---
 
@@ -140,6 +140,36 @@ A machine-learning project involving DNA-related data processing, feature extrac
 
 ---
 
+<details>
+<summary><b>🍽️ Smart Restaurant Management System</b></summary>
+
+### Overview
+
+A full-stack web application designed to manage restaurant operations, customer orders, menu management and related restaurant activities.
+
+### Key Features
+
+- Restaurant management
+- Menu management
+- Customer management
+- Order management
+- Database integration
+- Backend API integration
+- Responsive web interface
+- Full-stack architecture
+
+| Category | Details |
+|---|---|
+| Stack | HTML, CSS, JavaScript, Backend, Database |
+| Application | Restaurant Management |
+| Architecture | Full-Stack Web Application |
+| Database | SQL-based Database |
+| Repository | [GitHub](https://github.com/tanvishirodkar2402) |
+
+</details>
+
+---
+
 ## 💼 Experience
 
 ### Computer Science Engineering — Project Development
@@ -192,29 +222,15 @@ As a final-year Computer Science Engineering student, I work on practical softwa
 
 <div align="center">
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-tanvishirodkar2402-181717?style=for-the-badge&logo=github)](https://github.com/tanvishirodkar2402)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-shirodkar-a90771333)
 
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvishirodkar2402@gmail.com)
 
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tanvi_Shirodkar26)
 
-
 </div>
-
----
-
-
-
----
-
----
-
-
----
 
 ---
 
@@ -232,6 +248,7 @@ Building:
   - Intelligent chatbot systems
   - Health and diet technology
   - Machine learning applications
+  - Smart restaurant management systems
 
 Exploring:
   - Generative AI
@@ -246,5 +263,4 @@ Open To:
   - Internships
   - Graduate Opportunities
   - Collaborative Projects
-
-```
+  - Open Source Contributions
